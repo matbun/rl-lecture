@@ -32,4 +32,4 @@ A new window should open in the browser... If the window does not open, you can 
 pasting this in the search bar of your browser: `http://localhost:8888/`
 
 The Dockerfile is meant to generate a Docker image to be used as a notebook
-server in CERN's KubeFlow (pretty much a JupyterLab image).
+server in CERN's KubeFlow (pretty much a JupyterLab image). However, you won't need it.
