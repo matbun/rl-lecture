@@ -1,0 +1,8 @@
+ipykernel
+jupyter
+pandas
+numpy
+matplotlib
+pandas
+gymnasium[all]
+torch
