@@ -6,7 +6,7 @@ In the `RL-lecture.ipynb` notebook you will find the exercises used
 during the lecture, whereas in `RL-lecture-solutions.ipynb` you can find
 the solutions to the exercises.
 
-The lecture contains the following exercises:
+The lecture contains exercises on the following topics:
 
 1. Learn how to interact with RL environments using [Gymnasium](https://gymnasium.farama.org/index.html).
 1. Markov Decision Process (MDP).
