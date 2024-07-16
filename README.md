@@ -6,6 +6,15 @@ In the `RL-lecture.ipynb` notebook you will find the exercises used
 during the lecture, whereas in `RL-lecture-solutions.ipynb` you can find
 the solutions to the exercises.
 
+The lecture contains the following exercises:
+
+1. Learn how to interact with RL environments using [Gymnasium](https://gymnasium.farama.org/index.html).
+1. Markov Decision Process (MDP).
+1. Dynamic programming (DP): Policy Evaluation and Value Iteration algorithms.
+1. Maintaining exploration with epsilon-greedy policies.
+1. TD(0) methods for sample-based RL: a comparison between SARSA and Q-learning.
+1. Function approximation: train a deep reinforcement learning agent to control a [Lunar Lander](https://gymnasium.farama.org/environments/box2d/lunar_lander/).
+
 ## Environment setup
 
 In [this presentation](https://docs.google.com/presentation/d/1SKoHpH-H6bSj5gU8dDh8lrtHvjcVrgTciql9QMXfOxU)
